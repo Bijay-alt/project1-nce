@@ -1,0 +1,23 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "title": "Sharan",
+      "author": "kando"
+    },
+
+    {
+      "id": 2,
+      "title": "kera",
+      "author": "hallaudai"
+    },
+
+    {
+      "id": 3,
+      "title": "Chusa",
+      "author": "basa"
+    }
+  ]
+}
+  
+  
